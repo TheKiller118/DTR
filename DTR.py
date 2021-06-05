@@ -35,4 +35,4 @@ port = int(input(f"{yellow} ingrese puerto"))
 dur = int(input(f"{blue} ingrese duracion"))
 
 timeout = time.time() + dur
-send = 900
+sent = 900
